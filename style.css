@@ -1,0 +1,8 @@
+#xlNavbar .nav-link {
+  font-size: 18px;
+  color: white;
+}
+
+#xlNavbar .nav-link:hover {
+  color: #9D3923;
+}
