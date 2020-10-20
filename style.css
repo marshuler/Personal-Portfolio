@@ -4,5 +4,25 @@
 }
 
 #xlNavbar .nav-link:hover {
-  color: #9D3923;
+  color: #F0AC74;
+}
+
+#xlNavbar {
+  background-color: #092130;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+#hero {
+  background-image: url(./images/california031.jpg);
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.display-1 {
+  padding-top: 168px;
+}
+
+.display-4 {
+  padding-bottom: 200px;
 }
