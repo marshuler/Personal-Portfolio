@@ -19,7 +19,7 @@
   background-size: cover;
   background-position: center bottom;
   border-bottom-style: solid;
-  border-bottom-width: 5px;
+  border-bottom-width: 10px;
   border-bottom-color: black;
 }
 
@@ -49,8 +49,20 @@
   color: #F0AC74;
 }
 
-#portfolio-section {
-  border-bottom-style: solid;
-  border-bottom-width: 5px;
-  border-bottom-color: black;
+#about {
+  background-color: #092130;
+  background-size: cover;
+  background-position: center top;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: black;
+}
+
+hr {
+  border-top: 1px solid white;
+  margin-top: 50px;
+}
+
+p {
+  font-size: 12px;
 }
